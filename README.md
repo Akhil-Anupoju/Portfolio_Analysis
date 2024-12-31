@@ -3,7 +3,8 @@
 📜 **Overview**
 This project demonstrates a complete end-to-end data analytics portfolio, focusing on analyzing e-commerce data using Python and SQL. The primary objective is to derive meaningful insights and support business decision-making through effective data processing, analysis, and visualization.
 
-🛠️ **Features**
+🛠️ **Features**\n
+
 Comprehensive analysis of e-commerce datasets.
 Data cleaning and preprocessing for consistent and structured datasets.
 Data transformation for actionable insights.
